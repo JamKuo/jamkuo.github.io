@@ -99,6 +99,17 @@ footer:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://telegram.com/Obvio234"
+      
+      
+ jekyll_admin:
+   hidden_links:
+     - posts
+     - pages
+     - staticfiles
+     - datafiles
+     - configuration
+   homepage: "pages"
+ 
 
 defaults:
   # _posts
