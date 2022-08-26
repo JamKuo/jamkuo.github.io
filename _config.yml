@@ -60,11 +60,15 @@ plugins:
 author:
   name   : "Kuo Obvio"
   avatar : "/assets/images/myphoto.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+#   bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a amateur coder, mather and singler."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
+    - label: "Zhihu"
+      icon: "fas fa-fw fa-zhihu"
+      url: "https://zhihu.com/people/guo-chang-yin-5"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/guocy186"
@@ -80,6 +84,9 @@ author:
 
 footer:
   links:
+    - label: "Zhihu"
+      icon: "fas fa-fw fa-zhihu"
+      url: "https://zhihu.com/people/guo-chang-yin-5"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/guocy186"
