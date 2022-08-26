@@ -80,7 +80,7 @@ author:
       url: "https://instagram.com/obvio111"
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
-      url: "https://telegram.com/Obvio234"
+      url: "https://telegram.org/Obvio234"
 
 footer:
   links:
@@ -98,7 +98,7 @@ footer:
       url: "https://instagram.com/obvio111"
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
-      url: "https://telegram.com/Obvio234"
+      url: "https://telegram.org/Obvio234"
       
       
  jekyll_admin:
