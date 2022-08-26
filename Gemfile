@@ -16,3 +16,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-admin"
 end
+
+gem "webrick", "~> 1.7"
